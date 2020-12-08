@@ -2,6 +2,6 @@ package chapter1
 
 
     fun main(){
-        chapter01()
+        chapter1to1()
     }
 

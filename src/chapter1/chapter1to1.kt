@@ -1,6 +1,6 @@
 package chapter1
 
-fun chapter01(){
+fun chapter1to1(){
     var x = 1
     while (x<3) {
         print (if(x==1)"Yab" else "Dab")
